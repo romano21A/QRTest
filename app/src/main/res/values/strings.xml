@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRTest</string>
+    <string name="scan">Scan QR</string>
+    <string name="create">Create QR</string>
+    <string name="qr_text_hint">QR-Code data</string>
+    <string name="qr_view">QR-Code</string>
+</resources>
